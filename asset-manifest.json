@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trybe-pokedex/static/css/main.53bafd1e.chunk.css",
+    "main.js": "/trybe-pokedex/static/js/main.0e4ad9a4.chunk.js",
+    "main.js.map": "/trybe-pokedex/static/js/main.0e4ad9a4.chunk.js.map",
+    "runtime-main.js": "/trybe-pokedex/static/js/runtime-main.d9f79e23.js",
+    "runtime-main.js.map": "/trybe-pokedex/static/js/runtime-main.d9f79e23.js.map",
+    "static/js/2.4f701715.chunk.js": "/trybe-pokedex/static/js/2.4f701715.chunk.js",
+    "static/js/2.4f701715.chunk.js.map": "/trybe-pokedex/static/js/2.4f701715.chunk.js.map",
+    "index.html": "/trybe-pokedex/index.html",
+    "static/css/main.53bafd1e.chunk.css.map": "/trybe-pokedex/static/css/main.53bafd1e.chunk.css.map",
+    "static/js/2.4f701715.chunk.js.LICENSE.txt": "/trybe-pokedex/static/js/2.4f701715.chunk.js.LICENSE.txt",
+    "static/media/pokemon-logo.cd383bed.png": "/trybe-pokedex/static/media/pokemon-logo.cd383bed.png",
+    "static/media/MyPage.css": "/trybe-pokedex/static/media/wallpaper.47bfd9df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f79e23.js",
+    "static/js/2.4f701715.chunk.js",
+    "static/css/main.53bafd1e.chunk.css",
+    "static/js/main.0e4ad9a4.chunk.js"
+  ]
+}
