@@ -3,6 +3,5 @@ Seus Pokemons reunidos e um só lugar. Exercício sugerido pela Trybe para fixa�
 
 # Acesso
 
-<img src="https://media.giphy.com/media/eJ3mWeALMqorzzI7Ze/giphy.gif" alt="Pokemon" width="80px" align="left" />
 Disponível em Github Pages.
-<img src="https://media.giphy.com/media/eJ3mWeALMqorzzI7Ze/giphy.gif" alt="Pokemon" width="80px" align="right" />
+<img src="https://media.giphy.com/media/eJ3mWeALMqorzzI7Ze/giphy.gif" alt="Pokemon" width="80px" align="center" />
